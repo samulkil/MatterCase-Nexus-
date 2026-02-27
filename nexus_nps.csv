@@ -1,0 +1,112 @@
+id_pesquisa,empresa_id,data_pesquisa,nps_score,respondente,comentario
+NPS0001,EMP001,12/07/2023,10.0,grupo.costa@empresa.com,Integração com nosso RH foi fácil
+NPS0002,EMP001,19/10/2023,9,Ana Lima,Integração com nosso RH foi fácil
+NPS0003,EMP001,27/10/2023,9,grupo.costa@empresa.com,
+NPS0004,EMP001,08.01.2023,9,grupo.costa@empresa.com,"Excelente plataforma, minha equipe adora"
+NPS0005,EMP001,07/01/2023,9,anônimo,Reduziu muito o absenteísmo
+NPS0006,EMP001,2022-07-19,nota 10,Ana Lima,
+NPS0007,E002,07/09/2022,nota 7,anônimo,Atendimento razoável
+NPS0008,EMP002,2022-09-14,8,Anônimo,
+NPS0009,EMP002,2023-03-30,9,brlogix.silva@empresa.com,
+NPS0010,EMP002,13.01.2023,9,Carlos Santos,"Excelente plataforma, minha equipe adora"
+NPS0011,EMP003,01.01.2024,9.0,Fernanda Costa,Recomendo fortemente
+NPS0012,EMP003,2022-11-28,8,anônimo,Esperava mais do produto
+NPS0013,EMP003,02.05.2023,8,Fernanda Costa,Esperava mais do produto
+NPS0014,EMP003,24.10.2022,9,anônimo,Recomendo fortemente
+NPS0015,EMP004,19/02/2023,7/10,Ana Lima,
+NPS0016,EMP004,2023-11-05,6,anônimo,Prometeram coisas que não entregaram
+NPS0017,EMP004,2023-01-02,5,construora.santos@empresa.com,Caro para o que entrega
+NPS0018,EMP004,2023-04-16,5,Ana Lima,Prometeram coisas que não entregaram
+NPS0019,EMP005,04/07/2023,5.0,edutech.oliveira@empresa.com,
+NPS0020,EMP005,31.07.2023,6,Anônimo,Prometeram coisas que não entregaram
+NPS0021,E006,30.09.2023,5.0,anônimo,Suporte demora dias para responder
+NPS0022,EMP006,2024-01-01,6,farmabem.costa@empresa.com,"Onboarding muito complicado, ninguém conseguiu usar"
+NPS0023,EMP006,2023-10-30,8,Fernanda Costa,Esperava mais do produto
+NPS0024,EMP007,2023-11-26,5/10,porto.silva@empresa.com,Não justifica o investimento para uma empresa pequena
+NPS0025,EMP007,10.02.2024,8,Ana Lima,Atendimento razoável
+NPS0026,EMP008,11.08.2023,nota 5,studio.lima@empresa.com,"Interface confusa, colaboradores reclamam"
+NPS0027,EMP008,2023-09-10,7,Carlos Santos,Esperava mais do produto
+NPS0028,EMP008,07/09/2023,8,anônimo,
+NPS0029,EMP009,2023-10-06,nota 4,Fernanda Costa,Prometeram coisas que não entregaram
+NPS0030,EMP009,22/07/2023,7,padaria.santos@empresa.com,Esperava mais do produto
+NPS0031,EMP010,11/02/2024,nota 4,anônimo,Vou cancelar em breve
+NPS0032,011,19/08/2023,6.0,,"Interface confusa, colaboradores reclamam"
+NPS0033,011,22/08/2023,3,anônimo,"Minha equipe não usa, não vejo valor"
+NPS0034,011,29/08/2023,7,tech.costa@empresa.com,
+NPS0035,E012,29.11.2023,7/10,Fernanda Costa,
+NPS0036,012,28/02/2024,6,gerente@restau.com.br,Vou cancelar em breve
+NPS0037,012,2023-11-18,5,restaurante.silva@empresa.com,"Minha equipe não usa, não vejo valor"
+NPS0038,013,2023-10-20,5/10,anônimo,
+NPS0039,013,2024-01-01,5,anônimo,"Interface confusa, colaboradores reclamam"
+NPS0040,013,2024-02-29,4,Anônimo,"Onboarding muito complicado, ninguém conseguiu usar"
+NPS0041,014,05.02.2024,4/10,anônimo,Caro para o que entrega
+NPS0042,14,2023-12-14,4,anônimo,Suporte demora dias para responder
+NPS0043,015,29/02/2024,6.0,anônimo,"Interface confusa, colaboradores reclamam"
+NPS0044,015,07.02.2024,3,anônimo,Não justifica o investimento para uma empresa pequena
+NPS0045,E016,25/02/2024,4.0,Ana Lima,Suporte demora dias para responder
+NPS0046,E016,27.01.2024,5,anônimo,Prometeram coisas que não entregaram
+NPS0047,E017,2024-02-09,nota 5,sorveteria.silva@empresa.com,Caro para o que entrega
+NPS0048,E017,15.02.2024,3,gerente@sorvet.com.br,"Minha equipe não usa, não vejo valor"
+NPS0049,EMP018,21.02.2024,nota 5,Fernanda Costa,Prometeram coisas que não entregaram
+NPS0050,E018,20/02/2024,7,ótica.lima@empresa.com,
+NPS0051,E018,24.02.2024,3,ótica.lima@empresa.com,"Onboarding muito complicado, ninguém conseguiu usar"
+NPS0052,E019,29/04/2023,1/10,Anônimo,Suporte demora dias para responder
+NPS0053,E019,30.09.2022,4,anônimo,Caro para o que entrega
+NPS0054,E019,20/10/2022,1,datavox.santos@empresa.com,Caro para o que entrega
+NPS0055,E019,2022-11-17,2,datavox.santos@empresa.com,Suporte demora dias para responder
+NPS0056,19,16.05.2023,3,Ana Lima,Não justifica o investimento para uma empresa pequena
+NPS0057,E020,2023-08-03,2/10,Carlos Santos,"Interface confusa, colaboradores reclamam"
+NPS0058,E020,05.09.2023,4,anônimo,
+NPS0059,E020,2023-07-14,1,novabolsa.oliveira@empresa.com,
+NPS0060,E020,18.12.2022,4,novabolsa.oliveira@empresa.com,Caro para o que entrega
+NPS0061,E020,2023-04-04,5,Carlos Santos,"Onboarding muito complicado, ninguém conseguiu usar"
+NPS0062,E020,14/01/2024,3.0,anônimo,Caro para o que entrega
+NPS0063,21,2023-05-28,3.0,Fernanda Costa,Suporte demora dias para responder
+NPS0064,empresa_21,09/07/2023,3,agro.costa@empresa.com,Prometeram coisas que não entregaram
+NPS0065,empresa_21,2023-01-19,3,Fernanda Costa,Caro para o que entrega
+NPS0066,empresa_21,17.02.2024,4,anônimo,
+NPS0067,empresa_22,2023-08-15,2/10,anônimo,"Minha equipe não usa, não vejo valor"
+NPS0068,empresa_22,03.05.2023,3,gerente@moda.com.br,Caro para o que entrega
+NPS0069,empresa_22,13/08/2023,5,Ana Lima,Suporte demora dias para responder
+NPS0070,E023,2023-04-18,5/10,Carlos Santos,Vou cancelar em breve
+NPS0071,empresa_23,25.10.2023,2,anônimo,Prometeram coisas que não entregaram
+NPS0072,empresa_24,08/11/2023,2/10,Anônimo,Caro para o que entrega
+NPS0073,empresa_24,2023-05-18,N/A,Fernanda Costa,
+NPS0074,empresa_24,25/01/2024,4,Fernanda Costa,Suporte demora dias para responder
+NPS0075,empresa_25,03/08/2023,2/10,Ana Lima,Caro para o que entrega
+NPS0076,empresa_25,01/10/2023,4,Ana Lima,Não justifica o investimento para uma empresa pequena
+NPS0077,E025,27.12.2023,3,Ana Lima,Caro para o que entrega
+NPS0078,EMP026,2023-07-17,3/10,anônimo,
+NPS0079,EMP026,13.09.2023,1,anônimo,Prometeram coisas que não entregaram
+NPS0080,EMP026,2023-09-15,2,Carlos Santos,"Interface confusa, colaboradores reclamam"
+NPS0081,EMP027,2023-12-13,3.0,Fernanda Costa,Caro para o que entrega
+NPS0082,EMP027,10.02.2024,4,escola.silva@empresa.com,Vou cancelar em breve
+NPS0083,EMP028,11.08.2023,nota 5,Ana Lima,"Interface confusa, colaboradores reclamam"
+NPS0084,29,06/12/2023,nota 4,Carlos Santos,"Onboarding muito complicado, ninguém conseguiu usar"
+NPS0085,EMP029,13.11.2023,3,quiosque.santos@empresa.com,"Minha equipe não usa, não vejo valor"
+NPS0086,EMP029,2023-11-15,2,anônimo,
+NPS0087,EMP030,19/03/2024,nota 4,Fernanda Costa,Prometeram coisas que não entregaram
+NPS0088,EMP031,2023-07-25,2.0,Anônimo,
+NPS0089,EMP031,26.02.2024,2,academia.costa@empresa.com,Prometeram coisas que não entregaram
+NPS0090,EMP032,02/05/2023,1.0,Carlos Santos,Suporte demora dias para responder
+NPS0091,33,14/07/2023,3.0,clínica.lima@empresa.com,Vou cancelar em breve
+NPS0092,EMP033,2023-11-17,5,Fernanda Costa,"Minha equipe não usa, não vejo valor"
+NPS0093,EMP033,04/01/2024,2,Fernanda Costa,Prometeram coisas que não entregaram
+NPS0094,EMP034,01.03.2024,nota 7,fintech.santos@empresa.com,Esperava mais do produto
+NPS0095,EMP034,2024-02-16,9,fintech.santos@empresa.com,"Suporte muito bom, resolvem rápido"
+NPS0096,EMP034,21/02/2024,7,,Atendimento razoável
+NPS0097,EMP035,03/02/2024,8.0,Carlos Santos,
+NPS0098,35,09.02.2024,6,indústria.oliveira@empresa.com,"Minha equipe não usa, não vejo valor"
+NPS0099,EMP035,20/02/2024,5,Carlos Santos,Não justifica o investimento para uma empresa pequena
+NPS0100,EMP036,21.02.2024,nota 7,,
+NPS0101,EMP036,21/02/2024,N/A,Fernanda Costa,Vou cancelar em breve
+NPS0102,EMP036,22/02/2024,6,anônimo,
+NPS0103,EMP037,14.12.2023,5.0,Ana Lima,"Minha equipe não usa, não vejo valor"
+NPS0104,EMP037,22/12/2023,3,Ana Lima,"Interface confusa, colaboradores reclamam"
+NPS0105,E038,10/12/2023,5/10,marketing.lima@empresa.com,Suporte demora dias para responder
+NPS0106,EMP039,22.02.2024,3.0,Fernanda Costa,
+NPS0107,EMP040,27/02/2024,nota 6,advocacia.oliveira@empresa.com,"Minha equipe não usa, não vejo valor"
+NPS0108,EMP041,2024-02-22,nota 7,anônimo,Às vezes o app trava
+NPS0109,EMP042,2023-10-07,nota 7,infinity.silva@empresa.com,
+NPS0110,EMP042,13/10/2023,5,Fernanda Costa,Vou cancelar em breve
+NPS0111,EMP042,2023-11-17,?,Fernanda Costa,

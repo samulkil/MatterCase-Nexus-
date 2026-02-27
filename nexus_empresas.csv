@@ -1,0 +1,43 @@
+id_empresa,nome_empresa,segmento,porte,num_colaboradores_contrato,data_contrato,data_churn,status,mensalidade_mrr,email_contato,cidade_estado
+EMP001,Grupo Meridian S.A.,Tecnologia,Enterprise,185,2022-03-15,,Ativo,"R$ 46.250,00",cs@grupo.com.br,Campinas
+EMP002,BRLogix Ltda.,Logística,Enterprise,120,01.06.2022,,Ativo,"R$ 30.000,00",cs@brlogix.com.br,rio de janeiro
+EMP003,MedCorp Brasil S/A,Health,Enterprise,98,10-09-2022,,Ativo,"R$ 24.500,00",cs@medcorp.com.br,Belo Horizonte/MG
+EMP004,Construora Alpha LTDA,Construção,Mid,55,2022/11/05,,Ativo,"R$ 8.250,00",cs@construo.com.br,Brasilia
+EMP005,EduTech Soluções Ltda,Educação,Média,48 func.,jan/2023,,1,"R$ 7.200,00",contato@edutechsoluç.com,campinas - SP
+EMP006,FarmaBem S.A.,Health,Média,42,02/14/2023,,Ativo,"6.300,00",cs@farmabem.com.br,Florianopolis
+EMP007,Porto Verde Seguros,Financeiro,Média,39,20/12/2021,,Ativo,"R$ 5.850,00",,BH
+EMP008,Studio Criativo Ltda,Marketing,média,,2023-03-22,,Ativo,"R$ 5.250,00",cs@studio.com.br,Floripa/SC
+EMP009,Padaria Central Ltda,VAREJO,Pequena,18,10.05.2023,,Ativo,,cs@padaria.com.br,Porto Alegre/RS
+EMP010,Clínica Bem-Estar,Saúde,Pequena,14 colaboradores,01-06-2023,,1,"R$ 1.260,00",contato@clínicabem-e.com,Campinas/SP
+011,TECH FREELANCERS CO.,Tecnologia,Pequena,12,2023/07/15,,Ativo,"R$ 1.080,00",cs@tech.com.br,RJ
+012,Restaurante Raízes,alimentação,pequena,10,ago/2023,,Ativo,"900,00",cs@restaura.com.br,Sao Paulo
+013,CasaDesign Studio,Design,Pequena,9,09/05/2023,,Ativo,"R$ 810,00",cs@casadesi.com.br,POA
+014,Lopes & Associados,Jurídico,Pequena,8,14/11/2021,,Ativo,"R$ 720,00",,Campinas/SP
+015,Consultoria KMV,consultoria,Pequena,~7,2023-11-12,,vigente,"R$ 630,00",contato@consultoriak.com,porto alegre
+E016,Gráfica Impressão Fina,Gráfica,SMB,,03.12.2023,,Ativo,"R$ 540,00",cs@gráfica.com.br,POA
+E017,Sorveteria Gelato Fino  ,Alimentação,Pequena,5,08-01-2024,,Ativo,"R$ 450,00",cs@sorveter.com.br,Belo Horizonte/MG
+E018,Ótica Visão Clara,varejo,Pequena,5,2024/02/01,,Ativo,,cs@ótica.com.br,BSB
+E019,DataVox Telecom S.A.,Telecom,Enterprise,88,abr/2022,31/10/2023,Churned,"R$ 22.000,00",cs@datavox.com.br,Brasilia
+E020,NovaBolsa Investimentos,Financeiro,G,~72,07/15/2022,2023-11-30,encerrado,"R$ 18.000,00",contato@novabolsainv.com,Belo Horizonte
+empresa_21,Agro Sul Grãos LTDA,Agro,Média,44,01/12/2022,31.01.2024,Churned,"R$ 6.600,00",,SP
+empresa_22,MODA PRAIA DISTRIBUIDORA,Varejo,Média,38,2021-12-08,15-01-2024,Churned,"R$ 5.700,00",cs@moda.com.br,São Paulo - SP
+empresa_23,Transportes Boa Viagem,Logística,Média,31,28.02.2023,2024/02/28,Churned,"R$ 4.650,00",cs@transpor.com.br,Curitiba/PR
+empresa_24,Pet Shop Focinhos,VAREJO,SMB,,15-03-2023,dez/2023,encerrado,R$1350.00,cs@pet.com.br,Rio de Janeiro/RJ
+empresa_25,Barbearia Vintage,Varejo,Pequena,11 func.,2023/04/01,11/30/2023,Churned,"R$ 990,00",contato@barbeariavin.com,Belo Horizonte
+EMP026,Lavanderia Express,Serviços,Pequena,9,mai/2023,15/12/2023,Churned,"R$ 810,00",cs@lavander.com.br,belo horizonte/MG
+EMP027,Escola de Idiomas LX,EDUCAÇÃO,Pequena,8,06/20/2023,2024-01-10,Churned,,cs@escola.com.br,Porto Alegre
+EMP028,Buffet Sabores,Alimentação,pequena,7,05/07/2023,31.01.2024,inativo,"R$ 630,00",,Porto Alegre
+EMP029,Quiosque CelFix,Varejo,Pequena,6,2023-08-15,15-02-2024,Churned,"R$ 540,00",cs@quiosque.com.br,campinas - SP
+EMP030,Foto Studio Premium,design,Pequena,5 func.,01.09.2023,2024/02/28,Churned,"450,00",contato@fotostudiopr.com,Porto Alegre/RS
+EMP031,Academia FitPro,Saúde,Pequena,22,10-02-2023,jan/2024,Churned,"R$ 1.980,00",cs@academia.com.br,Porto Alegre/RS
+EMP032,Livraria Cultura Nova,Varejo,Micro,,2023/03/05,12/20/2023,Churn,"R$ 1.170,00",cs@livraria.com.br,Rio
+EMP033,CLÍNICA ODONTO TOP,Saude,Pequena,10,mai/2023,31/01/2024,Churned,"R$ 900,00",cs@clínica.com.br,Porto Alegre/RS
+EMP034,Fintech Credix S.A.  ,Financeiro,Enterprise,110,01/15/2024,,Ativo,"R$ 27.500,00",cs@fintech.com.br,BH
+EMP035,Indústria MetalPro Ltda,Indústria,Grande,76 colaboradores,01/02/2024,,ATIVO,"R$ 15.200,00",,rio de janeiro
+EMP036,Rede Farma Plus,saude,M,51,2024-02-20,,Ativo,,cs@rede.com.br,Brasília - DF
+EMP037,RH Solutions EIRELI,RH,Pequena,19,15.10.2023,,Ativo,"R$ 1.710,00",cs@rh.com.br,belo horizonte/MG
+EMP038,Marketing Digital Prox,Marketing,Pequena,16,01-11-2023,,Ativo,"R$ 1.440,00",cs@marketin.com.br,POA
+EMP039,Mecânica Rodar Bem LTDA,Servicos,Pequena,11,2023/12/10,,Ativo,"R$ 990,00",cs@mecânica.com.br,São Paulo
+EMP040,Advocacia Costa e Lima,Jurídico,pequena,,jan/2024,,sim,"R$ 630,00",contato@advocaciacos.com,belo horizonte/MG
+EMP041,Espaço Gourmet Refeições,Alimentação,Pequena,6,01/20/2024,,Ativo,"R$ 540,00",cs@espaço.com.br,Campinas/SP
+EMP042,Infinity Cloud Tech,Tecnologia ,Média,32,15/08/2023,,Ativo,R$ 4800,,Campinas
